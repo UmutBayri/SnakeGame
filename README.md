@@ -1,6 +1,6 @@
 # Snake Game with Python
 
-![Screenshot](screenshots/Ekran Alıntısı.PNG)
+![Screenshot](screeenshots/Ekran Alıntısı.PNG)
 
 ## Required Libraries
 ### Pygame
