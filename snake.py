@@ -8,11 +8,12 @@ class Directions(Enum):
 
 
 class Snake:
-    def __init__(self, block_size, border):
+    def __init__(self, block_size, border, color):
         self.block_size = block_size
         self.border = border
-        self.color = "#DACDCB"
         self.score = 0
+
+        self.color = color
 
         self.respawn()
 
