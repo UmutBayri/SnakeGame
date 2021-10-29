@@ -2,11 +2,11 @@ import random
 
 
 class Food:
-    def __init__(self, block_size, border):
+    def __init__(self, block_size, border, color):
         self.block_size = block_size
         self.border = border
 
-        self.color = "#F35736"
+        self.color = color
         self.respawn()
 
     def respawn(self):
