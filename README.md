@@ -3,8 +3,7 @@
 ![Screenshot](screeenshots/snake.PNG)
 
 ## Required Libraries
-### Pygame
-https://www.pygame.org/docs/
+### Pygame https://www.pygame.org/docs/
 ```python
 pip install pygame
 ```
@@ -15,6 +14,7 @@ Right : →
 Left : ←
 
 Toggle/Exit Fullscreen : F
+
 Chance the color of everything : D
 
 ## Contributing
